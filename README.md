@@ -1,10 +1,5 @@
 ### Ola, Sou o Fernando! 👋
 
-- 🔭 Estudante de Engenharia de Software
-- 🌱 Atualmente aprendendo C, Java e CSS
-- 🎮 Gamer
-- 🎸 Guitarrista em horas vagas
-
 <div align="center">
   <a href="https://github.com/fcarrascozzo">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fcarrascozzo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
