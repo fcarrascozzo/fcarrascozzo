@@ -20,3 +20,6 @@
   <a href="https://www.instagram.com/fcarrascozzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://steamcommunity.com/profiles/76561198141826854/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
+
+
+ ![Snake animation](https://github.com/fcarrascozzo/fcarrascozzo/blob/output/github-contribution-grid-snake.svg)
