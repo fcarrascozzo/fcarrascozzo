@@ -1,4 +1,6 @@
-### Ola, Sou o Fernando! 👋
+### Ola, Sou o Fernando!👋
+
+### Estudando Engenharia de Software e em eterna busca por conhecimento!
 
 <div align="center">
   <a href="https://github.com/fcarrascozzo">
@@ -11,8 +13,7 @@
   <img align="center" alt="Fernando-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="Fernando-c" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" alt="Fernando-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="right" alt="Fernando-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/LLvqxmK3gOXLy/giphy.gif">
-  </div> 
+</div> 
   
   ##
   
