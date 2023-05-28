@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fcarrascozzo&layout=compact&hide_border=true&title_color=8ebdb6&text_color=8ebdb6&bg_color=0d1117"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fcarrascozzo&bg_color=0d1117&color=8ebdb6&line=ece1c3&point=8ebdb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  ### Habilidades principais
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
