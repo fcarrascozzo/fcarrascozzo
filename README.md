@@ -1,21 +1,35 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=063940&height=120&section=header"/>
+<img src = "banner.gif" width = "325px" align = "right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3e838c&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Fernando+Dias+Carrascozzo;I'm+23+years+old!;I'm+from+Brazil;I+study+Software+engineering;Welcome!+:%29)](https://git.io/typing-svg)
+# Seja bem vindo(a) ao meu GitHub! 😄
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fcarrascozzo&show_icons=true&count_private=true&hide_border=true&title_color=8ebdb6&icon_color=0d1117&text_color=c9d1d9&bg_color=0d1117" alt="Cinthia Cunha github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fcarrascozzo&layout=compact&hide_border=true&title_color=8ebdb6&text_color=8ebdb6&bg_color=0d1117"/>
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fcarrascozzo&bg_color=0d1117&color=8ebdb6&line=ece1c3&point=8ebdb6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- ### Habilidades principais
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-
-<div align="center"> 
+---
+<div align="left"> 
 <a href="https://www.instagram.com/fcarrascozzo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/fernandocarrascozzo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
-  
- ![Snake animation](https://github.com/fcarrascozzo/fcarrascozzo/blob/output/github-contribution-grid-snake.svg)
-fcarrascozzo
+<a href="https://steamcommunity.com/id/MysticSouls/" target="_blank"><img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=Steam&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
+
+Olá, sou Fernando!
+
+Sou um desenvolvedor mobile com experiência em Flutter, uma das tecnologias mais empolgantes para criar aplicativos incríveis. Além disso, estou em constante aprimoramento, curso Engenharia de Software, além de outros cursos, para garantir que minhas habilidades estejam sempre atualizadas.
+
+Fora do mundo do desenvolvimento, tenho uma paixão por jogos, especialmente RPGs e jogos competitivos. Se você também é um entusiasta, que tal nos encontrarmos em uma partida?
+
+Vamos nos conectar e colaborar em projetos empolgantes!
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fernando-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Fernando-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Fernando-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+---
+
+<div align = "left">
+<img height = "250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcarrascozzo&show_icons=true&theme=dracula&count_private=true"/>
+<img height = "250em" src="https://github-readme-stats.vercel.app/api?username=fcarrascozzo&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
+</div>
+
