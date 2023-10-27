@@ -9,7 +9,7 @@
 <a href="https://steamcommunity.com/id/MysticSouls/" target="_blank"><img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=Steam&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-Olá, sou Fernando!
+Olá, sou Fernando
 
 Sou um desenvolvedor mobile com experiência em Flutter, uma das tecnologias mais empolgantes para criar aplicativos incríveis. Além disso, estou em constante aprimoramento, curso Engenharia de Software, além de outros cursos, para garantir que minhas habilidades estejam em constante evolução.
 
