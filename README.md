@@ -11,7 +11,7 @@
 
 Olá, sou Fernando!
 
-Sou um desenvolvedor mobile com experiência em Flutter, uma das tecnologias mais empolgantes para criar aplicativos incríveis. Além disso, estou em constante aprimoramento, curso Engenharia de Software, além de outros cursos, para garantir que minhas habilidades estejam em constante evolução.
+Sou um desenvolvedor mobile com experiência em Flutter, uma das tecnologias mais empolgantes para criar aplicativos. Além disso, estou em constante aprimoramento, curso Engenharia de Software, além de outros cursos, para garantir que minhas habilidades estejam em constante evolução.
 
 Fora do mundo do desenvolvimento, tenho uma paixão por jogos, especialmente RPGs e jogos competitivos. Se você também é um entusiasta, que tal nos encontrarmos em uma partida?
 
