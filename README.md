@@ -10,18 +10,17 @@
 
 Olá, sou Fernando!
 
-Sou um desenvolvedor mobile com experiência em Flutter, uma das tecnologias para criar aplicativos. Além disso, estou em constante aprimoramento, curso Engenharia de Software, além de outros cursos, para garantir que minhas habilidades estejam em constante evolução.
-
-Fora do mundo do desenvolvimento, tenho uma paixão por jogos, especialmente RPGs e jogos competitivos. Se você também é um entusiasta, que tal nos encontrarmos em uma partida?
+Sou um desenvolvedor mobile com experiência em Flutter. Além disso estou em constante aprimoramento, curso Engenharia de Software, além de outros cursos, para garantir que minhas habilidades estejam em constante evolução.
 
 Vamos nos conectar e colaborar em projetos empolgantes!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Fernando-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Fernando-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernando-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
