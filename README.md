@@ -6,11 +6,9 @@
 <a href="https://steamcommunity.com/id/Nandonando12/" target="_blank"><img src="https://img.shields.io/badge/-Steam-black?style=for-the-badge&logo=Steam&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-Olá, sou Fernando!
+Oi, sou o Fernando!
 
-Sou um desenvolvedor mobile com experiência em Flutter. Além disso estou em constante aprimoramento, curso Engenharia de Software, além de outros cursos, para garantir que minhas habilidades estejam em constante evolução.
-
-Vamos nos conectar e colaborar em projetos empolgantes!
+Sou desenvolvedor mobile, especializado em Flutter. Estou sempre buscando melhorar minhas habilidades, estudando Engenharia de Software e outros cursos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
